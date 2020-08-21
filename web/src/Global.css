@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap'); /* Importa uma fonte do Google Fonts */
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box; /* Toda essa configuração reseta o estilo do arquivo */
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  background: #E5E6F0;
+  -webkit-font-smoothing: antialiased; /* Deixa o texto mais legível (Só funciona no chrome) */
+}
+
+body, input, button { /* inputs e buttons tem uma configuração de estilo própria */
+  font-family: Roboto, sans-serif;
+}
