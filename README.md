@@ -32,7 +32,7 @@ This project was developed at the [Rocketseat](https://rocketseat.com.br/) "Sema
 
 I use the following tools to development:
 
--  [Windows 10](https://pop.system76.com/)
+-  [Windows 10](https://www.microsoft.com/pt-br/windows/)
 -  [VS Code](https://code.visualstudio.com/)
 -  [Insomnia](https://insomnia.rest/download/)
 -  [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
