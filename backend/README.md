@@ -27,7 +27,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) + [Nod
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/lucioeiras/be-the-hero
+$ git clone https://github.com/lucioeiras/dev-radar
 
 # Go into the repository
 $ cd dev-radar/backend
